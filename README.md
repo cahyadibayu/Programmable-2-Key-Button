@@ -6,3 +6,5 @@ This Project is just a hobby of mine but i share it for those who need it. This 
 3. Mechanical Switch (Cherry MX in my case)
 4. LED (Optional)
 5. a bunch of copper wire.
+
+P.s Use Proteus to open the circuit file.
